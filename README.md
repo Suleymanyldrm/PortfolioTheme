@@ -1,3 +1,3 @@
 # Portfolyo Teması
 Html ve Css kullanılarak tasarlanan portfolyo teması
-![](images/ss.png)
+![](https://github.com/Suleymanyldrm/PortfolioTheme/blob/master/images/ss.PNG)
